@@ -1,0 +1,10 @@
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\bin\Debug\AudioSteganographyClass1.exe.config
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\bin\Debug\AudioSteganographyClass1.exe
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\bin\Debug\AudioSteganographyClass1.pdb
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.Form1.resources
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.Properties.Resources.resources
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.csproj.GenerateResource.cache
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.exe
+C:\Users\DCL\source\repos\AudioSteganographyClass1\AudioSteganographyClass1\obj\Debug\AudioSteganographyClass1.pdb
